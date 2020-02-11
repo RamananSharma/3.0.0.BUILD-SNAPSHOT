@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.springframework.social</groupId>
+  <artifactId>spring-social-facebook</artifactId>
+  <version>3.0.0.BUILD-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20191104113759</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>3.0.0.BUILD-SNAPSHOT</value>
+        <updated>20191104113759</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>3.0.0.BUILD-SNAPSHOT</value>
+        <updated>20191104113759</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
