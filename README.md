@@ -1,5 +1,4 @@
 ## Installation
+`cd ~/.m2/repository/org/springframework/social/spring-social-facebook/`
 
-cd ~/.m2/repository/org/springframework/social/spring-social-facebook/
-
-clone the repository inside the directory 
+Clone the repository inside the directory 
